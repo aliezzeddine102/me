@@ -3,6 +3,10 @@
 
 With over 15 years of experience in IT management and software development, I specialize in creating robust, efficient solutions using Delphi while also being proficient in modern web technologies including React, React Native, and JavaScript.
 
+### 💼 Current Roles:
+- Partner & Operations Manager at Computer City LDT
+- Project Manager at IMU Studio (Remote)
+
 ### 🔭 Currently working on:
 - Enterprise-level inventory management system in Delphi
 - Cross-platform mobile applications using React Native
@@ -16,10 +20,10 @@ With over 15 years of experience in IT management and software development, I sp
 
 ### 📫 Connect with me:
 - Email: ezzeddine.ali@gmail.com
-- LinkedIn: [Ali Ezzeddine](https://www.linkedin.com/in/aliezzeddine)
+- LinkedIn: [Ali Ezzeddine](https://www.linkedin.com/in/aliezzeddine-itc)
 
 ### 💼 Professional Background:
-Currently serving as Partner & Operations Manager at Computer City LDA in Angola, with previous experience as Senior IT Manager & Senior Programmer at Pheagle Group and other technology organizations.
+Experienced IT leader with a proven track record in managing complex technical operations across international markets. Currently serving in dual leadership roles that leverage my combined expertise in operations management, software development, and project leadership. Successfully delivering technological solutions in both traditional and remote work environments.
 
 
 # Enterprise Inventory Management System
